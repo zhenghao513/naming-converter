@@ -134,5 +134,6 @@ const bemCase = computed(() => {
 .container {
   max-width: 1080px;
   margin: 0 auto;
+  padding: 0 12px;
 }
 </style>
